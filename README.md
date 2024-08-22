@@ -6,4 +6,4 @@ Tempo de execução: 32.91 segundos
 Uso de memória: 0.46 MB
 Uso de CPU: 0.5%
 
-vou refazer do arquivo de bilhão e recolocarei aqui, pois demorou 3 horas 
+vou refazer do arquivo de bilhão e recolocarei aqui, pois demorou 7 horas 
